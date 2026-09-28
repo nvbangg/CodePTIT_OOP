@@ -1,5 +1,5 @@
 # [Đề và Code môn Lập trình hướng đối tượng (OOP)](https://github.com/nvbangg/CodePTIT_OOP) trên [CodePTIT](https://code.ptit.edu.vn)
-## Source: https://github.com/nvbangg/PTIT_Docs
+## Source: https://github.com/nvbangg/PTIT-Docs
 
 - Tổng cộng 293 bài tập
 
